@@ -1,3 +1,3 @@
 <?php
-	echo'eerste lijn PHP';
+	echo 'nieuwe lijn PHP';
 ?>
